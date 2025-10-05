@@ -1,0 +1,352 @@
+@media screen and (max-width: 1500px) {
+
+#video_background {height: 100% !important;}
+#bgVideo{height:auto !important;}
+.slide-content{float:right; width:55%; padding-right:50px;}
+.footer{background-position:right center;}
+
+
+}
+
+@media screen and (max-width: 1400px) {
+.testimonail .bx-wrapper .bx-prev{left:0px;}
+.testimonail .bx-wrapper .bx-next{right:0px;}
+.membership-sec{background-position: right center;}
+
+}
+@media screen and (max-width: 1280px) {
+
+.membership-plan{width:100%;}
+.membership-sec .left-sec{width:45%;}
+.membership-sec .right-sec {float: right;padding-left: 0;width: 45%; padding-right:50px;}
+.form-control .input-field{width:100%;}
+.membership-sec .sub-title{font-size:22px;}
+input.btn-contol{width:100%;}
+.stories-sec .title::before{width:150px; height:150px; background-size:100%; left:-130px; }
+.stories-sec .title::after{width:150px; height:150px; background-size:100%; right:-110px; }
+.banner-sec{background-position: 72% center;}
+.copyright{float:left;width:100%; margin-top:-22px;}
+.inner-pages .menu{width:auto; padding-right:20px;}
+.one-third-outer .lower strong{margin-left:10px;}
+.ot-left .icon{width:80px;}
+.one-third-outer .ot-left{margin:0px 10px;}
+.one-third-outer .ot-right{width:63%;}
+.feed-content{padding:0px;}
+.tracker-sec .one_half{padding:30px 10px;}
+.progress-panel p strong{font-size:23px;}
+.Picture-upload .one_half .btn-group{width:195px;}
+.Picture-upload .one_half .figure{width:200px; height:200px;}
+.user-info{margin-right:0px;}
+.recipe-nav li{margin:0px 0px 3px;}
+.recipe-container .recipeholder{margin:0px -10px;}
+}
+
+@media screen and (min-width: 980px) and (max-width: 1280px){
+
+	.container{max-width:970px}
+	.hdr-btn a{ margin-left:5px;}
+	.menu li{padding:25px 7px;}
+	.menu{margin-left:1%;}
+	.btn-sec .btn{margin-left:5px;}
+	.bx-wrapper{max-width:970px !important;}
+	.slide-content ul{margin-bottom:40px;}
+	.mealplan-container .ui-tabs-nav li{width:123px;}
+	.blue-banner .tracker-sec .detail-right{ width:320px;}
+	.blue-banner .tracker-sec .thumb{width:143px; height:143px;}
+	.detail-page .row-8{width:609px;}
+	.detail-page .row-4{width:300px;}
+	.detail-page .recipe-img{width:300px; height:300px;}
+	.description-actn li{padding:0px 15px;}
+	
+	
+	
+}
+
+@media screen and (max-width: 979px) {
+
+
+.mMenu {display: block !important; float:right; width:30px; margin-top:15px;}
+#responsive-menu {font-size: 0; background:url("../images/bars .png")no-repeat; width:30px; height:30px; display:block;}
+.about-sec {background-position:-170px 0;}
+.cont-sec small{letter-spacing:16px;}
+.cont-sec p{font-size:18px;}
+.btn{padding:0px 9px; font-size:15px;}
+.membership-plan p {font-size: 15px;}
+.plan-price b{font-size:30px;}
+.plan-price sup{font-size:18px;}
+.membership-plan{padding:30px 25px;}
+.plan-price{min-width:65px;}
+.plan-no {font-size: 15px;height: 39px;left: -21px;line-height: 39px;width: 39px;}
+.membership-sec .left-sec{padding-left:10px;}
+.membership-sec .right-sec{padding-right:10px;}
+.stories-sec .title{max-width:510px;}
+.footer{padding:80px 0px;}
+.subscribe-form .form-control{margin-bottom:85px;}
+
+.sidr {background: #35ace6;box-shadow: 0 0 5px 0 #222222 inset;color: #ffffff;}
+.nav-menu {display:none; position:relative; z-index:999; float:left; width:100%;}
+.menu { margin:0px;float:left;}
+.nav {background: #ffffff;height: auto;z-index: 9999;}
+.plan-block.active .plan-no, .plan-block:hover .plan-no,.plans-container .plan-no{background-size:16px;}
+.inner-pages .nav-menu {background: #f2f2f2;left: 0;position: absolute;right: 0;text-align: center;top: 100%;width: auto;}
+.inner-pages .menu {display: inline-block;float: none;padding-right: 20px;width: auto;}
+.inner-pages .menu a,.up-info p {color:#000;}
+.user-info { background-image: url("../images/arw-bk.png"); display: inline-block;float: none;vertical-align: middle;width: auto;}
+.one-third-outer .one-third {margin: 0 1.1% 3.2%; float:left;}
+.one-third-outer .ot-left {margin: 0 0 5px;padding: 0 10px;width: 100%;}
+.ot-left .icon {float: left;}
+.one-third-outer .ot-left p{margin-top:20px;}
+.one-third-outer .ot-right {padding: 0 10px;width: 100%;}
+.left-sidebar{width:100%; margin-bottom:25px;}
+.sidear-menu li {border-right: 1px solid #e9e9e9; border-bottom:0px;float: left;position: relative;width: 25%;}
+.middle-content {float: left;margin: 0 2% 0 0;width: 68%;}
+.right-sidebar {float: right;width: 30%;}
+.mealplan-container .ui-tabs-nav a{ font-size:13px;}
+.mealplan-container .ui-tabs-nav li{width:98px;}
+.progress-block .one-third{width:31.3%; margin:0px 1%;}
+.image-status{width:450px;}
+.Picture-upload .one_half{padding-right:20px;}
+.Picture-upload .one_half .figure{height:160px; width:160px;}
+.Picture-upload .one_half .btn-group{width:155px;}
+.Picture-upload .one_half.last{padding:0px 0px 0px 20px;}
+.detail-page h1{font-size:32px;}
+.detail-page .social-link a{font-size:16px;}
+.description-actn li{font-size:13px; padding:0px 20px;}
+.description-actn li .shop-btn{font-size:13px;}
+
+
+}
+
+@media screen and (min-width: 768px) and (max-width: 979px){
+
+	.container{max-width:750px}
+	.hdr-btn a{ margin-left:5px;}
+	.menu li{padding:25px 7px;}
+	.btn-sec .btn{margin-left:5px;}
+	.bx-wrapper{max-width:970px !important;}
+	.slide-content ul{margin-bottom:40px;}
+	.community-row .feed-content {height: 83px;overflow: hidden;}
+	.blue-banner .tracker-sec .detail-right{width:240px;}
+	.blue-banner .tracker-sec .thumb{width:123px; height:123px;}
+	.tracker-sec .btn.white-btn{min-width:230px;}
+	.detail-page .row-4{width:260px;}
+	.detail-page .recipe-img{width: 260px; height:260px;}
+	.detail-page .row-8{width:430px;}
+	.description-actn li:last-child{padding:0px; margin-top:10px; width:100%;}
+	
+	
+
+}
+
+@media screen and (max-width: 767px) {
+
+
+.container {max-width: 100%;padding: 0 10px;}
+.about-sec .img-sec {float: left;margin: 0 30px 30px 0;padding-left: 0;width: 48%;}
+.about-sec .cont-sec {float: none;text-align: right;width: auto;}
+.stories-sec .ui-tabs-nav li a{font-size:28px;}
+.cont-sec h2{font-size:40px;}
+.cont-sec small{font-size:22px; letter-spacing:10px;}
+.testimonail h2,.membership-sec h2{font-size:34px;}
+.membership-sec .sub-title{font-size:18px;}
+.stories-sec .title{max-width:100%;}
+.stories-sec .title::before, .stories-sec .title::after{display:none;}
+.video-descp{width:95%;}
+.video-descp h2{font-size:30px;}
+.video-descp p,.video-descp .how-work{ font-size:15px;}
+.hdr-btn a{font-size:12px; width:93px; margin-left:4px;}
+.stories-sec .title{font-size:14px;}
+.stories-sec p{padding:0px;}
+.testimonial-slider .slide-thumnail {float: left;margin-bottom: 6px;margin-right: 20px;padding-left: 50px;width: 50%;}
+.slide-content {float: none;padding-left: 50px;padding-right: 50px;width: auto;}
+.testimonail .bx-wrapper .bx-controls-direction a {background-size: 100% auto;height: 32px;width: 32px;}
+.membership-sec .left-sec,.membership-sec .right-sec {padding-left: 100px;padding-right: 100px; width:100%; position: relative;}
+.divider{display:none;}
+.membership-sec{padding:50px 0px;}
+.membership-sec h2{color:#fff;}
+.membership-sec::before {background: #000000; content: "";height: 100%;left: 0;opacity: 0.7;position: absolute;top: 0;width: 100%;}
+.menu { margin:0px;float:left; width:100%;}
+.menu li {float: left;padding:0px;width: 100%;}
+.menu a{padding:10px; display:block;}
+.menu a:hover{background:#f2f2f2;}
+.hdr-btn {float: right;width: 100%;}
+.nav-menu {background: #f2f2f2;border-bottom: 3px solid #35ace6;border-top: 3px solid #35ace6;float: left;padding: 10px 0;position: relative;width: 100%;z-index: 999;}
+.hdr-btn a{margin-left:10px;}
+.payment-process h2{font-size:20px;}
+.main {padding: 30px 0;}
+.community-row{padding:10px 0px;}
+.one_half {margin-right: 0;width: 100%;}
+.one_half.last{margin-top:30px;}
+.one-third-outer .lower {padding: 12px 10px 40px 0;position: relative;}
+.lower .send-msg {bottom: 6px;left: 10px;padding: 0 3px;position: absolute;right: auto;text-align: center;top: auto;width: 93px;}
+.sidear-menu li a{font-size:14px;}
+.mealplan-container .ui-tabs-nav a{ font-size:13px; padding:0px 10px;}
+.mealplan-container .ui-tabs-nav li{width: auto;}
+.meal-block .meal-right{padding-left:50px;}
+.meal-block .meal-left{padding-right:50px;}
+.tracker-sec .btn.white-btn{min-width:100%;}
+.blue-banner .tracker-sec .thumb {height: 120px;width: 120px;  float: none;}
+.blue-banner .tracker-sec .detail-right {margin: 0;text-align: center;width: 100%;}
+.progress-panel p strong{font-size:19px;}
+.Picture-upload .one_half.last{margin-top:50px;}
+.Picture-upload .one_half{text-align:center;}
+.Picture-upload .one_half .btn-group{width:80%;}
+.Picture-upload .one_half .figure{margin-right:0px;}
+.recipe-container .recipeholder {margin: 0;text-align:center;}
+.recipeholder .social-act li{padding:0px 7px;}
+.recipeholder .one_fifth {margin: 0 2px 25px;text-align: left;width: 175px; float:none; display:inline-block;}
+.recipeholder .img-block{width:175px; height:175px;}
+.detail-page .row-4 {float: left;margin:0px 0px 30px;text-align: center;width: 100%;}
+.detail-page .recipe-img {display: inline-block;height: 360px;width: 360px;}
+.detail-page .social-link {display: block;float: none;margin: 20px auto 0;width: 360px;}
+.detail-page .row-8{width:100%;}
+.detail-page h1{font-size:25px; text-align:center;}
+.breadcrumb .add-btn {margin: -6px 0;}
+.add-btn{font-size:13px; line-height:36px; min-width:100px;}
+
+}
+
+@media screen and (max-width: 640px) {
+
+
+.about-sec {background-position: -260px -60px;}
+.stories-sec .ui-tabs-nav li a::before {border-left: 40px solid rgba(0, 0, 0, 0);border-top: 60px solid #35ace6;content: "";left: -40px;position: absolute;top: 0;}
+.stories-sec .ui-tabs-nav li a::after {border-right: 40px solid rgba(0, 0, 0, 0);border-top: 60px solid #35ace6;content: "";position: absolute;right: -40px;top: 0;}
+.stories-sec .ui-tabs-nav li a{font-size:20px;line-height:40px; letter-spacing:5px;}
+.stories-sec h3{font-size:20px;}
+.banner-cont {font-size: 15px;padding: 50px 25px;width: 100%;}
+.banner-sec .sec-head {margin: 0 -25px 25px;padding: 25px;}
+.sec-head h2{font-size:40px;}
+.sec-head small {font-size: 20px;letter-spacing: 25px;}
+.testimonail h2, .membership-sec h2{font-size:26px;}
+.ft-subscribe{margin-left:0px; width:100%;}
+.ft-about {margin-bottom: 40px;margin-right: 5%;width: 55%;}
+.ft-menu{width:40%;}
+.copyright{margin-top:20px;}
+.subscribe-form .form-control{margin-bottom:20px;}
+.progress-row .bdr{max-width:68%;}
+.leaderboard-row {background-size:cover ;padding: 30px 0 20px;}
+.leaderboard-tab .one_fifth {margin: 0 1.1% 15px;width: 31%;}
+.leaderboard-tab ul li, .gallery-sec .nav-tabs li{width:140px;}
+#ourHolder .one_fourth{margin-bottom:6px;}
+.one-third-outer .one-third {float: left;margin: 0 1.1% 3.2%;width: 47.8%;}
+.user-info{border-left:0px;}
+.sidear-menu li a {padding: 15px 5px 15px 35px;}
+.sidear-menu .icons{left:5px;}
+.mealplan-container .ui-tabs-nav li {margin: 1px;text-align: center;width: 80px;}
+.mealplan-container .ui-tabs-nav a{border:1px solid #e9e9e9; padding:0px; font-size:12px;}
+.progress-block canvas{width:150px;}
+.image-status {width: 60%;}
+.description-actn li{padding:0px 15px;}
+
+}
+
+@media screen and (max-width: 567px) {
+
+.membership-sec .left-sec, .membership-sec .right-sec{padding:0px 20px;}
+.membership-sec {background-position: 85% center;}
+.membership-sec .sub-title{font-size:15px;}
+.testimonail h2, .membership-sec h2{font-size:20px;}
+.slide-content p{font-size:14px;}
+.slide-content li{font-size:12px;}
+input.btn-contol,.form-control .input-field{height:35px;}
+.membership-plan {padding: 15px 25px;}
+.membership-plan h3{font-size:16px; margin-bottom:10px;}
+.membership-plan p{font-size:13px;}
+.plan-price b {font-size: 20px;}
+.plan-price {padding:18px 6px;}
+.blue-banner .user-detail{width:100%;}
+.blue-banner {padding: 20px 0 38px;}
+.blue-banner .thumb::after {background-size: 22px auto;bottom: -20px;content: "";}
+.blue-banner .thumb {float: left;height: 90px;margin-right: 10px;position: relative;width: 90px;}
+.blue-banner .detail-right{left:100px;}
+.blue-banner .detail-right {float: none;margin: 6px 0 0;}
+.blue-banner .detail-right h2{font-size:18px;}
+.blue-banner .detail-right h3{font-size:13px;}
+.sidear-menu li{width:50%;}
+.sidear-menu li:nth-child(1),.sidear-menu li:nth-child(2){ border-bottom:1px solid #e9e9e9;}
+.middle-content {float: left;margin: 0 0 0 0;width: 100%;}
+.breadcrumb h2{display:inline-block;}
+.notification {color: #6ca351;cursor: pointer;float: right;font-size: 13px;font-weight: 400;height: 20px;margin-top: 0px;display:block;}
+.main-content .right-sidebar {background: #f2f2f2;float: right;padding: 5px;display:none;position: absolute; bottom:0px;right: -240px;top:0px;width: 240px;}
+.right-sidebar.show{right:0px;display:block;}
+.meal-block .meal-left {padding-right: 0;width: 100%;}
+.meal-block .meal-right {padding-left: 0;position: relative;top: 0;transform: translateY(0%);-moz-transform: translateY(0%);-webkit-transform: translateY(0%);-ms-transform: translateY(0%);-o-transform: translateY(0%);
+    width: 100%; float:left;}
+.meal-right .or {left: 0;margin: 20px auto 7px;position: relative;top: auto;}
+.popup_content {border-radius: 5px;padding: 30px 40px;width: 100%;}
+.popup_content a.facebook-btn{line-height:40px; margin-bottom:10px;}
+.popup_content .pop-with,.popup_content .pop-or{margin-bottom:10px;}
+.popup_content .form .form-control{height:40px;}
+.popup_content input.sub-btn{line-height:40px;}
+.term-cond .pop-or {margin: 10px 0;}
+.plans-container.congrats-sec{padding:10px 20px 20px; margin:70px 0px 0px;}
+.tracker-sec .one_half{min-height:auto; width:100%;}
+.tracker-sec .one_half.last {background: transparent;width: 100%;}
+.tracker-sec .btn.white-btn{min-width:50%;}
+.progress-block .one-third {margin: 0 1% 20px;width: 98%;}
+.image-status .status-2 strong{left:-60px;}
+.image-status .status-2,.image-status .status-3{font-size:18px;}
+.image-status .status-3 strong{right:-52px;}
+.description-actn li:last-child{padding:0px; margin-top:10px; width:100%;}
+.description-actn li:nth-child(3){padding-right:0px;}
+.popup_content .term-cond a.forget-pass {float: right;font-size: 12px;margin-bottom: 10px;margin-top: 2px;}
+.popup_content .term-cond p {font-size: 13px; text-align:center;}
+.popup_content .term-cond{font-size:12px;text-align:left;}
+}
+
+
+@media screen and (max-width: 479px) {
+
+
+.logo {float: left;margin-top: 0px;width: 150px;}
+.hdr-btn a {font-size: 11px;line-height: 39px;margin-left: 2px;margin-top: 5px;width: 70px;}
+.nav{height:auto; padding:4px 0px;}
+.mMenu{margin-top:7px;}
+.slide-content {float: right;width: 100%; }
+.testimonial-slider .slide-thumnail {float: left;width: 100%; margin:0px; padding:0px 50px;}
+.about-sec .img-sec {float: left;margin: 0 0 10px;padding-left: 0;width: 100%;}
+.about-sec .cont-sec{text-align:left; width:100%;}
+.btn-sec .btn {margin: 0 10px 0 0;}
+.btn {font-size: 12px;padding: 0 9px;}
+.stories-sec .panel{padding:0px 10px;}
+.stories-sec .panel li{width:100%; margin-right:0px;}
+.panel .img-sec img {width: 100%;}
+.sec-head h2 {font-size: 32px;}
+.plan-price {padding: 6px;position: relative;right: 0;text-align: center;top: 0;width: auto; margin:10px -25px -15px;}
+.sec-head small {font-size: 16px;letter-spacing: 20px;}
+.footer {padding: 40px 0;}
+.ft-menu {width: 100%;}
+.ft-about{width:100%; margin-right:0px;}
+.stories-sec .ui-tabs-nav li a {font-size: 12px;letter-spacing: 2px;line-height: 40px; padding: 4px 10px 0;}
+.stories-sec .ui-tabs-nav li a::before {border-left: 30px solid rgba(0, 0, 0, 0);border-top: 45px solid #35ace6;content: "";left: -30px;}
+.stories-sec .ui-tabs-nav li a::after {border-right: 30px solid rgba(0, 0, 0, 0);border-top: 45px solid #35ace6;content: "";position: absolute;right: -30px;}
+.video-descp{bottom:20px;}
+.video-descp h2{font-size:20px;}
+.video-descp p, .video-descp .how-work{font-size:10px;}
+.video-descp p{margin-bottom:10px;}
+.plans-container .membership-plan{padding:15px 45px;}
+.plans-container .plan-price {margin: 10px -45px -15px;}
+.plans-container {padding: 20px 10px 10px 26px;}
+.one-third-outer .one-third {width: 98%;}
+.leaderboard-tab .one_fifth {margin: 0 1% 15px;width: 48%;}
+.leaderboard-tab ul li, .gallery-sec .nav-tabs li {width: 96px;}
+.leaderboard-tab ul a, .gallery-sec .nav-tabs a{font-size:13px;}
+#ourHolder .one_fourth {float: left;margin: 0 1% 9px;width: 48%;}
+.one-third-outer .lower {padding: 12px 100px 12px 0;position: relative;}
+.lower .send-msg {bottom: 6px;left: auto;padding: 0 3px;position: absolute;right: 10px;text-align: center;top: auto;width: auto;}
+.payment-form .row-8,.payment-form .row-4,.payment-form .row-6,.payment-form .col-6-1,.payment-form .col-6-2{width:100%; text-align:left;}
+.detail-page h1{font-size:22px;}
+}
+
+@media screen and (max-width: 413px) {
+
+.ui-accordion .shop-btn {display: block;margin-left: 0;margin-right: -20px;margin-top: 9px;text-align: center;}
+.Picture-upload .one_half .btn-group{width:100%;}
+.Picture-upload .one_half .figure{height:120px; width:120px;}
+.recipeholder .one_fifth {margin: 0 2px 25px;text-align: left;width: 190px; float:none; display:inline-block;}
+.recipeholder .img-block{width:190px; height:190px;}
+.detail-page .recipe-img{width:260px; height:260px;}
+.detail-page .social-link{width:260px;}
+.description-actn li{padding:0px 5px;}
+}
